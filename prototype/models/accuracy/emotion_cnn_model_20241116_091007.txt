@@ -1,0 +1,53 @@
+C:\Users\droha\Downloads\COLLEGE\4\FYP\emotion-detection\computervisions\.venv\Scripts\python.exe "C:\Users\droha\Downloads\COLLEGE\4\INDIVIDUAL PROJECT\prototype\main_modelmake.py"
+Accuracy: 30.00%
+Epoch [1/100], Loss: 1.7552, cuda
+Accuracy: 38.39%
+Epoch [2/100], Loss: 1.5161, cuda
+Accuracy: 28.60%
+Epoch [3/100], Loss: 1.4332, cuda
+Accuracy: 44.90%
+Epoch [4/100], Loss: 1.3842, cuda
+Accuracy: 42.46%
+Epoch [5/100], Loss: 1.3669, cuda
+Accuracy: 45.46%
+Epoch [6/100], Loss: 1.3377, cuda
+Accuracy: 47.27%
+Epoch [7/100], Loss: 1.3247, cuda
+Accuracy: 48.39%
+Epoch [8/100], Loss: 1.3166, cuda
+Accuracy: 49.40%
+Epoch [9/100], Loss: 1.3118, cuda
+Accuracy: 45.41%
+Epoch [10/100], Loss: 1.3104, cuda
+Accuracy: 49.50%
+Epoch [11/100], Loss: 1.2927, cuda
+Accuracy: 49.39%
+Epoch [12/100], Loss: 1.2854, cuda
+Accuracy: 49.45%
+Epoch [13/100], Loss: 1.2744, cuda
+Accuracy: 51.33%
+Epoch [14/100], Loss: 1.2702, cuda
+Accuracy: 48.91%
+Epoch [15/100], Loss: 1.2705, cuda
+Accuracy: 51.73%
+Epoch [16/100], Loss: 1.2612, cuda
+Accuracy: 50.50%
+Epoch [17/100], Loss: 1.2556, cuda
+Accuracy: 53.67%
+Epoch [18/100], Loss: 1.2484, cuda
+Accuracy: 54.08%
+Epoch [19/100], Loss: 1.2480, cuda
+Accuracy: 51.97%
+Epoch [20/100], Loss: 1.2470, cuda
+Accuracy: 52.81%
+Epoch [21/100], Loss: 1.2380, cuda
+Accuracy: 53.46%
+Epoch [22/100], Loss: 1.2328, cuda
+Accuracy: 52.51%
+Epoch [23/100], Loss: 1.2323, cuda
+Accuracy: 51.47%
+Early stopping...
+Accuracy: 54.23%
+Model saved to 'models\emotion_cnn_model_20241116_091007.pth'
+
+Process finished with exit code 0

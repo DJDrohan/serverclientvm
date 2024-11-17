@@ -1,0 +1,17 @@
+C:\Users\droha\Downloads\COLLEGE\4\FYP\emotion-detection\computervisions\.venv\Scripts\python.exe "C:\Users\droha\Downloads\COLLEGE\4\INDIVIDUAL PROJECT\prototype\main_modelmake.py"
+Accuracy: 28.78%
+Epoch [1/100], Loss: 1.7176, cuda
+Accuracy: 32.90%
+Epoch [2/100], Loss: 1.5241, cuda
+Accuracy: 38.12%
+Epoch [3/100], Loss: 1.4485, cuda
+Accuracy: 37.21%
+Epoch [4/100], Loss: 1.4046, cuda
+Accuracy: 22.75%
+Epoch [5/100], Loss: 1.3865, cuda
+Accuracy: 35.28%
+Early stopping...
+Accuracy: 38.27%
+Model saved to 'models\emotion_cnn_model_20241116_083331.pth'
+
+Process finished with exit code 0
